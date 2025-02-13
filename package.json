@@ -1,0 +1,16 @@
+{
+  "name": "cep-api",
+  "version": "1.0.0",
+  "description": "Consultando CEP´s atráves de uma API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joao Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "jest": "^29.7.0"
+  }
+}
